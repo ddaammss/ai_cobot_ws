@@ -1,0 +1,9 @@
+# Bartender ROS2 Package Dependencies
+python-dotenv
+SpeechRecognition
+pyaudio
+konlpy
+pymysql
+pyrealsense2
+transformers
+torch

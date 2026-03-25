@@ -1,0 +1,7 @@
+# request
+bool finish
+
+---
+
+# response
+float32[] goal_position

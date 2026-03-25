@@ -1,0 +1,15 @@
+path: merged_dataset
+train: train/images
+val: train/images
+nc: 10
+names:
+- leaf
+- w_duck
+- y_duck
+- black_cup
+- green_cup
+- yellow_cup
+- black_bottle
+- blue_bottle
+- purple_bottle
+- objects

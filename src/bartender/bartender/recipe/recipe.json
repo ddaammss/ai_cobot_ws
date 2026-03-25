@@ -1,0 +1,72 @@
+{
+  "recipes": [
+    {
+      "recipe_id": "블루 사파이어",
+      "display_name": "Blue Sapphire",
+      "cup": "black_cup",
+      "liquors": [
+        { "name": "black_bottle", "pour_time": 10.0 },
+        { "name": "blue_bottle", "pour_time": 2.0 }
+      ],
+      "topping": "y_duck"
+    },
+    {
+      "recipe_id": "테킬라 선라이즈",
+      "display_name": "Tequila Sunrise",
+      "cup": "green_cup",
+      "liquors": [
+        { "name": "black_bottle", "pour_time": 3.0 },
+        { "name": "purple_bottle", "pour_time": 1.5 }
+      ],
+      "topping": "leaf"
+    },
+    {
+      "recipe_id": "퍼플 레인",
+      "display_name": "Purple Rain",
+      "cup": "yellow_cup",
+      "liquors": [
+        { "name": "blue_bottle", "pour_time": 2.0 },
+        { "name": "purple_bottle", "pour_time": 2.0 }
+      ],
+      "topping": "w_duck"
+    },
+    {
+      "recipe_id": "진 앤 토닉",
+      "display_name": "Gin and Tonic",
+      "cup": "black_cup",
+      "liquors": [
+        { "name": "black_bottle", "pour_time": 4.0 }
+      ],
+      "topping": "leaf"
+    },
+    {
+      "recipe_id": "트로피컬 오션",
+      "display_name": "Tropical Ocean",
+      "cup": "green_cup",
+      "liquors": [
+        { "name": "black_bottle", "pour_time": 1.5 },
+        { "name": "blue_bottle", "pour_time": 1.5 },
+        { "name": "purple_bottle", "pour_time": 1.0 }
+      ],
+      "topping": "y_duck"
+    },
+    {
+      "recipe_id": "화이트 마가리타",
+      "display_name": "White Margarita",
+      "cup": "yellow_cup",
+      "liquors": [
+        { "name": "black_bottle", "pour_time": 4.0 }
+      ],
+      "topping": "w_duck"
+    },
+    {
+      "recipe_id": "블루 라군",
+      "display_name": "Blue Lagoon",
+      "cup": "black_cup",
+      "liquors": [
+        { "name": "blue_bottle", "pour_time": 4.0 }
+      ],
+      "topping": "leaf"
+    }
+  ]
+}
